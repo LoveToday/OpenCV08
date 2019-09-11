@@ -7,4 +7,24 @@
 
 -随机生成与绘制文本
 
+1.画线
+
+    cv::line (LINE_4\LINE_8\LINE_AA)
+
+2.画椭圆
+
+    cv::ellipse
+    
+3.画矩形
+
+    cv::rectangle
+    
+4.画圆
+
+    cv::circle
+    
+5.画填充
+
+    cv::fillPoly
+
 
